@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Jr. Full-Stack Developer 💻</p>
+<p align="left">Valerio Billi, Jr. Full-Stack Developer 💻</p>
 
 ###
 
